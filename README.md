@@ -31,7 +31,7 @@ and
 
 ## FAQ
 
-### Is it possible to use `rulang` not only for main text but alson in menus, footer?
+### Is it possible to use `rulang` not only for main text but also in menus, footer?
 
 It is not recommended because people may be confused if this is `rulang` code or Russian language. But if you add
 required code to HTML and `humans.txt` it is correct.
