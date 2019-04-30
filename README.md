@@ -48,6 +48,10 @@ We are working on it. At the moment, add required code manually.
 
 `rulang` was designed to be compatible with almost any CMS.
 
+### What are recommended editors for `rulang`?
+
+You can use any text editor but we recommend IDEs with spellcheckers like Microsoft Word or Google Docs.
+
 ## Testimonials
 
 ![Testimonial](./doc/testimonial.jpg)
