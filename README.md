@@ -4,7 +4,7 @@ Rulang is opensource programming language that makes it easy to write human unde
 
 ## Language Rules
 
-Any grammatically correct text in [https://en.wikipedia.org/wiki/Russian_language](Russian) is perfectly valid
+Any grammatically correct text in [Russian](https://en.wikipedia.org/wiki/Russian_language) is perfectly valid
 `rulang` code.
 
 ## Compiler
@@ -15,7 +15,7 @@ we need a strong AI to correctly compile `rulang` code.
 ## Injecting into Sites
 
 You can freely inject any amount of `rulang` code to any site as long as you add `humans.txt` file according to
-[http://humanstxt.org/Standard.html](Standard), adding `rulang` as `Computer Language` or `Components`.
+[Standard](http://humanstxt.org/Standard.html), adding `rulang` as `Computer Language` or `Components`.
 
 It is required to add to HTML of the pages with `rulang` code parts:
 
