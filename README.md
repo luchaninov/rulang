@@ -36,7 +36,7 @@ and
 It is not recommended because people may be confused if this is `rulang` code or Russian language. But if you add
 required code to HTML and `humans.txt` it is correct.
 
-### Is `rulang` helps me to obey 5670-D?
+### Does `rulang` help me to obey 5670-D?
 
 Sure. You can just remove all your Russian language content, but convert to `rulang` all required files.
 
