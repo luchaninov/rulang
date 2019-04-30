@@ -47,3 +47,7 @@ We are working on it. At the moment, add required code manually.
 ### Can I use `rulang` with Wordpress?
 
 `rulang` was designed to be compatible with almost any CMS.
+
+## Testimonials
+
+![Testimonial](./doc/testimonial.jpg)
